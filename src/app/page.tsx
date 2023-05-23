@@ -1,4 +1,4 @@
-import stacks from "../data/stacks.json";
+import stacks from "@/data/stacks.json";
 import Link from "next/link";
 import Image from "next/image";
 
